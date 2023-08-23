@@ -30,7 +30,7 @@ Upon achieving optimal hyperparameters, the model is utilized to generate predic
 3. Run the project's Jupyter Notebook to access the complete code and analysis.
 
 ## Contributors
-- [Your Name](https://github.com/pudding134)
+- [Willie](https://github.com/pudding134)
 
 ## Acknowledgments
 Special thanks to the Kaggle community and the instructors of ICT303 for providing valuable resources and guidance throughout this project.
